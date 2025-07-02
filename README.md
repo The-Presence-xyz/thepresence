@@ -1,5 +1,5 @@
 # The Presence
-Digital Solutions 
+Overview
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmY1OXpoanJiZDY1Y3F4ZDlpamJoNmY0ZGlreWtvMHBiOHoxNWkwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JVnLiRIsioEVO/giphy.gif" alt="Animated coding cat" width="280"/>
 </p>
