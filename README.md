@@ -1,4 +1,4 @@
-# thepresence
+# The Presence
 Digital Solutions 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZlYzdkOTZkMWNkZjM2YjliYzdmYjllNThlMjA3YjFiNTZlYzk4MCZjdD1n/G2PzpPz0fX0lBhZZn6/giphy.gif" alt="Animated coding cat" width="280"/>
