@@ -46,7 +46,7 @@ Digital Solutions
 
 - 🌍 Website: [thepresence.xyz](https://thepresence.xyz)
 - 📩 Contact: [service@thepresence.xyz](mailto:service@thepresence.xyz)
-- ✨ GitHub Pages: [The-Presence-xyz.github.io](https://https://the-presence-xyz.github.io/)
+- ✨ GitHub Pages: [The-Presence-xyz.github.io](https://the-presence-xyz.github.io/)
 
 ---
 
