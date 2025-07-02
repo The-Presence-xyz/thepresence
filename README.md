@@ -23,13 +23,13 @@ Digital Solutions
 
 ---
 
-## 🧩 Featured Projects
-
 | Preview | Project | Description | Tech |
 |--------|---------|-------------|------|
-| ![](https://thepresence.xyz/nft-mr-president/) | **NFT Archive** | Legacy minting platform, migrated & preserved. | `React`, `IPFS`, `Ethers.js` |
-| ![](https://thepresence.xyz/img/shopify-thumb.jpg) | **Custom Shopify Store** | Dawn-based theme with custom UX blocks. | `Liquid`, `JS`, `Shopify CLI` |
-| ![](https://thepresence.xyz/img/ai-thumb.jpg) | **AI Content Dashboard** | GPT-powered content assistant. | `OpenAI`, `Supabase`, `Tailwind` |
+| <img src="https://thepresence.xyz/wp-content/uploads/2025/06/Mishchok-Maine-baner-1.png" width="200" height="200" alt="Custom Shopify Store" /> | **Custom Shopify Store** | Dawn-based theme with custom UX blocks. | `Liquid`, `JS`, `Shopify CLI` |
+| <img src="https://thepresence.xyz/img/ai-thumb.jpg" width="200" height="200" alt="AI Content Dashboard" /> | **AI Content Dashboard** | GPT-powered content assistant. | `OpenAI`, `Supabase`, `Tailwind` |
+| <img src="https://thepresence.xyz/wp-content/uploads/2024/03/NFTs-Mr.-President.jpg" width="200" height="200" alt="NFT Archive" /> | **NFT Archive** | Legacy minting platform, migrated & preserved. | `React`, `IPFS`, `Ethers.js` |
+
+
 
 ---
 
@@ -53,5 +53,5 @@ Digital Solutions
 ## ✨ Let's create something meaningful.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbzI2k6FfLCI/giphy.gif" width="250" alt="flowing visual"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmY1OXpoanJiZDY1Y3F4ZDlpamJoNmY0ZGlreWtvMHBiOHoxNWkwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JVnLiRIsioEVO/giphy.gif" width="250" alt="flowing visual"/>
 </p>
