@@ -8,7 +8,6 @@ Digital Solutions
 
 <p align="center">
   <strong>Web development, E-commerce, AI automation, and beyond.</strong><br/>
-  Formerly known for NFT projects, now focused on full digital presence.
 </p>
 
 ---
